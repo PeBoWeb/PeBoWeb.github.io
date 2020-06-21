@@ -17,3 +17,6 @@ As Peter Forsberg said:
 
 > It's not only hockey, it's every sport. You know, it's a big event.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Peter_Forsberg_1997_cropped-2.jpg" />
+
+
