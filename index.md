@@ -19,6 +19,6 @@ As Peter Forsberg said:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Peter_Forsberg_1997_cropped-2.jpg" />
 
-<img src="https://drive.google.com/file/d/14S2VHpc25KNm9rIUV2SAFbGoQGJUhBDE/view" />
+<img src="https://drive.google.com/file/d/14S2VHpc25KNm9rIUV2SAFbGoQGJUhBDE/edit" />
 
 
